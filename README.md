@@ -30,4 +30,4 @@ I know:
 
 ## current project
 
-I'm currently working on `minitui`, a minimal library for creating TUIs (**T**erminal **U**ser **I**nterfaces) with low cost.
+I'm currently working on [`minitui`](https://github.com/femboy1/minitui), a minimal library for creating TUIs (**T**erminal **U**ser **I**nterfaces) with low cost.
