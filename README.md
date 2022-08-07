@@ -1,16 +1,33 @@
-### Hi there 👋
+#	✨ welcome to my github ✨
 
-<!--
-**femboy1/femboy1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a C elitist who specializes in creating software for POSIX/Unix systems (primarily Linux-based ones). 
 
-Here are some ideas to get you started:
+## about me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* ❤🧡💛💚💙💜 - LGBTQ+ (pansexual)
+* Born and live in the United States of America
+* Mathematics nerd and theory expert
+* Polylingual
+* FOSS/FLOSS by heart
+
+## what languages do I know?
+
+I know:
+
+* C
+* C++
+* Go
+* Rust
+* ECMAScript (JavaScript)
+* TypeScript
+* BASIC
+* NASM
+* ARM & ARM64 Asssembly
+* Mathematica
+* Matlab
+* SQL
+* GraphQL
+
+## current project
+
+I'm currently working on `minitui`, a minimal library for creating TUIs (**T**erminal **U**ser **I**nterfaces) with low cost.
