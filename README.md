@@ -1,6 +1,6 @@
 #	✨ welcome to my github ✨
 
-I'm a C elitist who specializes in creating software for POSIX/Unix systems (primarily Linux-based ones). 
+I'm a C elitist who specializes in creating software for POSIX/Unix systems (primarily GNU+Linux-based ones). 
 
 ## about me
 
