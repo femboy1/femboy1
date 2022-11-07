@@ -4,7 +4,6 @@ I'm a C elitist who specializes in creating software for POSIX/Unix systems (pri
 
 ## about me
 
-* ❤🧡💛💚💙💜 - LGBTQ+ (pansexual)
 * Born and live in the United States of America
 * Mathematics nerd and theory expert
 * Polylingual
@@ -27,7 +26,3 @@ I know:
 * Matlab
 * SQL
 * GraphQL
-
-## current project
-
-I'm currently working on [`minitui`](https://github.com/femboy1/minitui), a minimal library for creating TUIs (**T**erminal **U**ser **I**nterfaces) with low cost.
