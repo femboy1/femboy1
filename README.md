@@ -1,28 +1,12 @@
-#	✨ welcome to my github ✨
+# Welcome to my GitHub
 
-I'm a C elitist who specializes in creating software for POSIX/Unix systems (primarily GNU+Linux-based ones). 
+Hi! I'm `femboy1`, a hobbyist programmer and mathematics autodidact. I rarely finish anything.
 
-## about me
+## What I've Finished
 
-* Born and live in the United States of America
-* Mathematics nerd and theory expert
-* Polylingual
-* FOSS/FLOSS by heart
+* [Primey, an inefficient prime calculator](https://github.com/femboy1/primey)
 
-## what languages do I know?
+## What I'm Working On
 
-I know:
+* [Turbo, a toy programming language](https://github.com/femboy1/turbo)
 
-* C
-* C++
-* Go
-* Rust
-* ECMAScript (JavaScript)
-* TypeScript
-* BASIC
-* NASM
-* ARM & ARM64 Asssembly
-* Mathematica
-* Matlab
-* SQL
-* GraphQL
